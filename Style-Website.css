@@ -1,0 +1,235 @@
+.logonavbar{
+	width: 250px;
+	padding-top: 20px;
+}
+
+.shoppingcart{
+	width: 45px;;
+}
+
+.usercart{
+	width: 45px;
+}
+
+.d-flex{
+	padding: 20px;
+}
+
+.navbarbg {
+  background-color: #12070B;
+  height: 75px;
+}
+
+.judul1{
+  font-family: sans-serif;
+  font-weight: 200;
+  position: relative;
+  bottom:650px;
+  font-size: 85px;
+  left: 120px;
+}
+
+.judul2{
+  font-family: serif;
+  font-weight: 400;
+  position: relative;
+  bottom: 700px;
+  font-size: 167px;
+  left: 120px;
+}
+
+.abouth{
+  font-family: sans-serif;
+  font-weight: 600;
+  font-size: 64px;
+}
+
+.aboutp1.aboutp2.aboutp3.aboutp4{
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.judul3{
+  color: white;
+  font-family: sans-serif;
+  font-size: 48px;
+  font-weight: 300;
+  position: relative;
+  bottom: 200px;
+  left: 20px;
+}
+
+.judul4{
+  color: white;
+  font-family: serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: relative;
+  bottom: 220px;
+  left: 20px;
+  letter-spacing: 7px;
+}
+
+.card{
+  background: white;
+  background-image: url('https://drive.google.com/uc?id=1hLxlL1QS0GjUfZ3ixAhoxghJ5r1pd0uR');
+  height: 600px;
+  background-size: cover;
+}
+
+@media screen and (max-width: 2000px){
+
+.card h1{
+  text-align: center;
+  position: relative;
+  top: 400px;
+  color: white;
+  font-size: 52px;
+}
+
+@media screen and (min-width: 576px){
+  .card h1{
+  text-align: center;
+  position: relative;
+  top: 400px;
+  color: white;
+  font-size: 36px;
+}
+
+.card:hover{
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  transform: scale(1.03);
+  transition-duration: 0.5s;
+}
+
+.ann1{
+  font-family: sans-serif;
+  font-weight: 500;
+}
+
+.ann2{
+
+  font-family: serif;
+  font-weight: 500;
+  letter-spacing: 7px;
+}
+
+.card1{
+  background-image: url('https://drive.google.com/uc?id=1ci-9p4Lj8W9o-QnFjdHSLvKm0fX-JTOc');
+  height: 200px;
+  background-size: cover;
+}
+
+.card2{
+  background-image: url('https://drive.google.com/uc?id=1UXuhT-rhxXbdQGJ1UluXLrI67E-s7_5J');
+  height: 200px;
+  background-size: cover;
+}
+
+.card3{
+  background-image: url('https://drive.google.com/uc?id=19FtYf7_h1xgdqLx7KqiHXAQEs91Wb4-a');
+  height: 200px;
+  background-size: cover;
+}
+
+
+.annp{
+  color: white;
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  bottom: 230px;
+  left: 20px;
+}
+
+.annimg2{
+  width: 191px;
+}
+
+.annimg3{
+  width: 191px;
+}
+
+.annimg4{
+  width: 191px;
+}
+
+.brandimg4{
+  position: relative;
+  top: 55px;
+}
+
+.brandimg5{
+  position: relative;
+  top: 75px;
+}
+
+.judul5{
+  color: black;
+  font-family: serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: relative;
+}
+
+.brands {
+  height: 100px;
+}
+
+.brandsbg {
+  background-color: #7C7C7C;
+}
+
+.footerbg {
+  background-color: #12070B;
+}
+
+.footer {
+  height: 350px;
+}
+
+.footerteks1{
+  position: relative;
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  top: 50px;
+}
+
+.garis{
+  color: white;
+  position: relative;
+  bottom: 30px;
+  top: 50px;
+}
+
+.footerteks2{
+  color: white;
+  position: relative;
+  font-weight: 500;
+  font-family: sans-serif;
+  font-size: 20px;
+  word-spacing: 20px;
+  bottom: 50px;
+  top: 50px;
+}
+
+.footerteks3{
+  color: white;
+  position: relative;
+  font-weight: 500;
+  font-family: sans-serif;
+  font-size: 20px;
+  word-spacing: 15px;
+  top: 20px;
+}
+
+
+annbg2 {
+  background-color: #7C7C7C;
+}
